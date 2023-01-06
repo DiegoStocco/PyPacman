@@ -18,3 +18,4 @@ You can change the scale of the window at the line #574 of the file pacman.py
 
 ### TODO
 - [ ] Add a menu to change the scale of the display (and maybe some audio settings)
+- [ ] Remove sound delay when dots are eaten
